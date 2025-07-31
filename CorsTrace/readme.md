@@ -95,8 +95,3 @@ report.txt
 GitHub: [@KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 LinkedIn: [linkedin.com/in/kiran-kumar-k3](https://linkedin.com/in/kiran-kumar-k3)
 
----
-
-## ⭐ Star This Repo
-
-If you found this tool helpful, please ⭐ star the repo to support development!
